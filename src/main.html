@@ -1,0 +1,8 @@
+<div>
+	<h2>{{ title }}</h2>
+	<text paragraphs='{{ paragraphs }}' showAll='{{ showAll }}'></text>
+	<br />
+	{{#if !showAll}}
+		<button on-click='showAll'>Show all</button>
+	{{/if}}
+</div>

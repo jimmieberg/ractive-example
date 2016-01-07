@@ -1,0 +1,26 @@
+{
+  "name": "ractive-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmieberg/ractive-example.git"
+  },
+  "author": "Jimmie Berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmieberg/ractive-example/issues"
+  },
+  "homepage": "https://github.com/jimmieberg/ractive-example#readme",
+  "dependencies": {
+    "ractive": "^0.7.3"
+  },
+  "devDependencies": {
+    "html-loader": "^0.4.0",
+    "webpack": "^1.12.10"
+  }
+}
