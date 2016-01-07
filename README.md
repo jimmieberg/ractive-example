@@ -1,6 +1,5 @@
 # ractive-example
-
-A small app written with Ractive and Webpack.
+Ractive, Webpack.
 
 To build:
 
